@@ -1,24 +1,37 @@
 # Zhuoxun Yang
 
-Data analyst with a background in insurance auditing and financial risk analysis. I build end-to-end data pipelines and statistical models to support audit decisions and business intelligence.
+I work on data analysis, statistical modeling, and machine learning projects that turn messy data into clear, decision-ready insights.
 
-## Skills
+My projects cover predictive modeling, customer segmentation, anomaly detection, statistical testing, and text classification using Python, R, and machine learning.
+
+## What My Projects Demonstrate
+
+- Cleaning, exploring, and preparing structured datasets
+- Handling missing data and evaluating data quality
+- Comparing statistical and machine learning models
+- Segmenting customers or users into interpretable groups
+- Detecting anomalies and unusual patterns
+- Working with text data and transformer-based models
+- Translating analysis outputs into practical recommendations
+
+## Toolkit
 
 **Languages** &nbsp; Python · R  
-**Machine Learning** &nbsp; scikit-learn · XGBoost · K-Means · RoBERTa · LDA  
-**Statistics** &nbsp; CUSUM · Benford's Law · Stratified Sampling · Hypothesis Testing  
-**Tools** &nbsp; pandas · ggplot2 · tidyverse · matplotlib · seaborn · PyTorch · HuggingFace Transformers
+**Data Analysis** &nbsp; pandas · tidyverse · data cleaning · exploratory analysis  
+**Machine Learning** &nbsp; scikit-learn · XGBoost · K-Means · PyTorch · Transformers  
+**Statistics** &nbsp; hypothesis testing · CUSUM · Benford's Law · stratified sampling  
+**Visualization** &nbsp; matplotlib · seaborn · ggplot2
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| Project | What it demonstrates | Stack |
 |---|---|---|
-| [yelp-sentiment-roberta](https://github.com/joethanyoung/yelp-sentiment-roberta) | Fine-tuned RoBERTa-large on 240K Yelp reviews — 93.76% accuracy, deployed on 🤗 HuggingFace | Python · PyTorch · Transformers |
-| [ml-classification-pipeline](https://github.com/joethanyoung/ml-classification-pipeline) | Diabetes prediction with 7 ML models, GridSearchCV tuning, and missing data analysis | Python · XGBoost · scikit-learn |
-| [rfm-customer-segmentation](https://github.com/joethanyoung/rfm-customer-segmentation) | Customer segmentation using RFM analysis and K-Means clustering for an insurance firm | Python · scikit-learn |
-| [cusum-anomaly-detection](https://github.com/joethanyoung/cusum-anomaly-detection) | Statistical process control to flag abnormal premium sales across subsidiaries | R · qcc |
-| [insurance-claim-analysis](https://github.com/joethanyoung/insurance-claim-analysis) | Benford's Law and IQR-based audit of insurance claim settlement patterns | R · benford.analysis |
+| [ml-classification-pipeline](https://github.com/joethanyoung/ml-classification-pipeline) | End-to-end predictive modeling, missing data handling, model comparison, and evaluation | Python · XGBoost · scikit-learn |
+| [rfm-customer-segmentation](https://github.com/joethanyoung/rfm-customer-segmentation) | Customer segmentation, clustering interpretation, and business grouping logic | Python · K-Means · scikit-learn |
+| [yelp-sentiment-roberta](https://github.com/joethanyoung/yelp-sentiment-roberta) | NLP classification, model evaluation, and deployment-ready inference | Python · PyTorch · Transformers |
+| [insurance-claim-analysis](https://github.com/joethanyoung/insurance-claim-analysis) | Anomaly detection, statistical testing, and pattern review for unusual transactions | R · benford.analysis |
+| [cusum-anomaly-detection](https://github.com/joethanyoung/cusum-anomaly-detection) | Time-series anomaly flagging and statistical process control | R · qcc |
 
 ## Contact
 
-📧 joethan.zx@gmail.com
+joethan.zx@gmail.com
