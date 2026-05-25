@@ -16,11 +16,13 @@ My projects cover predictive modeling, customer segmentation, anomaly detection,
 
 ## Toolkit
 
-**Languages** &nbsp; Python · R  
-**Data Analysis** &nbsp; pandas · tidyverse · data cleaning · exploratory analysis  
-**Machine Learning** &nbsp; scikit-learn · XGBoost · K-Means · PyTorch · Transformers  
-**Statistics** &nbsp; hypothesis testing · CUSUM · Benford's Law · stratified sampling  
-**Visualization** &nbsp; matplotlib · seaborn · ggplot2
+- **Languages:** Python · R · SQL
+- **Data Analysis:** pandas · NumPy · tidyverse · data cleaning · exploratory analysis
+- **Business Intelligence:** Power BI · Excel · dashboarding · KPI reporting
+- **Machine Learning:** scikit-learn · XGBoost · K-Means · PyTorch · Transformers
+- **Statistics:** hypothesis testing · CUSUM · Benford's Law · stratified sampling
+- **Visualization:** Power BI · matplotlib · seaborn · ggplot2
+- **Workflow:** Jupyter Notebook · Git · GitHub · Hugging Face
 
 ## Featured Projects
 
@@ -34,4 +36,4 @@ My projects cover predictive modeling, customer segmentation, anomaly detection,
 
 ## Contact
 
-joethan.zx@gmail.com
+zhuoxun.yang.dk@gmail.com
