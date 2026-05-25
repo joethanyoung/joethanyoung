@@ -33,7 +33,3 @@ My projects cover predictive modeling, customer segmentation, anomaly detection,
 | [yelp-sentiment-roberta](https://github.com/joethanyoung/yelp-sentiment-roberta) | NLP classification, model evaluation, and deployment-ready inference | Python · PyTorch · Transformers |
 | [insurance-claim-analysis](https://github.com/joethanyoung/insurance-claim-analysis) | Anomaly detection, statistical testing, and pattern review for unusual transactions | R · benford.analysis |
 | [cusum-anomaly-detection](https://github.com/joethanyoung/cusum-anomaly-detection) | Time-series anomaly flagging and statistical process control | R · qcc |
-
-## Contact
-
-zhuoxun.yang.dk@gmail.com
