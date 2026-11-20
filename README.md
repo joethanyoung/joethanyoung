@@ -4,6 +4,8 @@ Analytics portfolio focused on business intelligence, data quality, statistical 
 
 I use SQL, Python, R, and BI tools to turn structured data into clear analysis, monitoring logic, and practical recommendations for business stakeholders.
 
+[Hugging Face](https://huggingface.co/Zhoyang)
+
 ## What My Projects Demonstrate
 
 - Business-facing analysis from structured operational and transaction data
@@ -33,4 +35,4 @@ I use SQL, Python, R, and BI tools to turn structured data into clear analysis, 
 | [cusum-anomaly-detection](https://github.com/joethanyoung/cusum-anomaly-detection) | Statistical monitoring, time-series anomaly flagging, and review prioritisation | R · qcc |
 | [insurance-claim-analysis](https://github.com/joethanyoung/insurance-claim-analysis) | Transaction review, data quality checks, outlier detection, and audit-oriented analytics | R · benford.analysis |
 | [ml-classification-pipeline](https://github.com/joethanyoung/ml-classification-pipeline) | Supervised modelling discipline, missing data handling, model comparison, and evaluation | Python · XGBoost · scikit-learn |
-| [yelp-sentiment-roberta](https://github.com/joethanyoung/yelp-sentiment-roberta) | Selected NLP project covering text classification, model evaluation, and inference workflow | Python · PyTorch · Transformers |
+| [Customer Review Triage & Cost Routing](https://github.com/joethanyoung/yelp-sentiment-roberta) · [Hugging Face Collection](https://huggingface.co/collections/Zhoyang/calibrated-review-triage-and-cost-optimal-routing-suite-6ad605c8ded5824ee51efbd4) | Routes uncertain sentiment predictions to human review and compares review effort with missed classification errors. | Python · RoBERTa · Gradio |
